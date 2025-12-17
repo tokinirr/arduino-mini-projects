@@ -12,20 +12,13 @@ Orientation système embarqué.
 - Structurer un projet embarqué proprement.
 - Travailler sans interface graphique lourde.
 
-## Organisation du dépôt
-
-
-
 ## Structure d’un projet
 
 - README.md  
-  - Objectif technique  
-  - Principe de fonctionnement  
+  - Objectif  
   - Schéma de câblage  
   - Matériel requis  
-  - Instructions d’exécution  
 
-- src/  
   - Code Arduino  
 
 ## Outils utilisés
